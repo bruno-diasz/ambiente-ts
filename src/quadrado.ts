@@ -1,5 +1,3 @@
-let lista: number[] = [3,5,7,3,8,9,1];
-
 export function calcQuadradoFor(lista: number[]){
     let novaLista: number[] = []
     for(let i = 0; i < lista.length; i++){
