@@ -1,4 +1,4 @@
-import { ordenar } from "../ordenar"
+import { ordenar } from "../services/ordenar"
 
 
 test("Deve ordenar a lista ", () => { 

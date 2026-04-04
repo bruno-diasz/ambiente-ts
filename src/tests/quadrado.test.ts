@@ -1,4 +1,4 @@
-import {calcQuadradoEach, calcQuadradoFor } from '../quadrado'
+import {calcQuadradoEach, calcQuadradoFor } from '../services/quadrado'
 
 describe ('Calculo do quadrado', () => {
     let entrada = [3,5,7,3,8,9,1];

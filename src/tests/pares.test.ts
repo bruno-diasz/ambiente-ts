@@ -1,4 +1,4 @@
-import { pares } from "../pares"
+import { pares } from "../services/pares"
 
 test("Filtrar numeros pares", () => {
     let entrada = [8, 3, 9, 5, 6, 12];

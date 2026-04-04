@@ -1,4 +1,4 @@
-import { fatiar } from "../fatiar";
+import { fatiar } from "../services/fatiar";
 
 test("Deve retornar dois primeiros elementos", () => {
     let entrada = [2,4,6,2,8,9,5];

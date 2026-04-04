@@ -1,4 +1,4 @@
-import {concatenarComEspaco} from '../concatena'
+import {concatenarComEspaco} from '../services/concatena'
 
 
 test("Deve concatenar uma lista com espaço ", () => {
