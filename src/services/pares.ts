@@ -1,0 +1,1 @@
+export let pares = (lista: number[]) => lista.filter( elemento => ((elemento % 2) == 0))

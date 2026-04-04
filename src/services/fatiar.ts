@@ -1,0 +1,1 @@
+export let fatiar = (lista: number[]) => lista.slice(0,2)

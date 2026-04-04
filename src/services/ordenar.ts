@@ -1,0 +1,1 @@
+export let ordenar = (lista: string[]) => lista.sort().reverse()
